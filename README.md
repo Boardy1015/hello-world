@@ -1,5 +1,5 @@
 # hello-world
 First GitHub repository
 
-Name: Adam Boardma
+Name: Adam Boardman
 Age: 20
